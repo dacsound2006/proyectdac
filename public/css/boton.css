@@ -1,0 +1,30 @@
+#bt_add, #bt_crear , #bt_act, #bt_cancel,#bt_hist,#bt_addDir,#bt_actualizar,#bt_guardar,#bt_reload,#bt_cargar, #bt_salir, #bt_recargar{
+
+  font-family: Arial;
+  padding: 4px 18px 4px 18px;  
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background:#4CAF00;
+  border: 0;
+  font-size: 10px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+  color:#FFF;
+    -webkit-border-radius: 31;
+  -moz-border-radius: 31;
+  border-radius: 31px;
+}
+
+#bt_add:hover ,#bt_crear:hover, #bt_act:hover, #bt_cancel:hover,#bt_hist:hover,#bt_addDir:hover,#bt_actualizar:hover,#bt_guardar:hover,#bt_reload:hover,#b#t_cargar:hover,#bt_salir:hover {
+  background: #c7cfc9;
+  text-decoration: none;
+}	
+
+#btn {
+	display: flex; justify-content: center;
+	padding-top:2px;
+	
+	}
+

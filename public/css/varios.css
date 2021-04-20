@@ -1,0 +1,86 @@
+ #pedido, #clientef {
+  background: #E4F8C7;
+  border: 1px solid #c1c1c1;
+  margin: 1rem auto 0 auto;
+  max-width: 700px;
+  padding: 3px;
+  border-radius:15px;
+}
+
+   #cliente{
+	border:0px solid yellowgreen;
+	font-size: 13px;
+	margin-left:20px;
+
+	}
+	#content{
+	border:0px solid yellowgreen;	
+	width:450px; height:100px; 
+	font-size: 13px;
+	text-align:center;	
+	
+	}	
+	#tablan, #tabla, #tabladir{
+		font-size:12px;
+		border:thin;
+		border-color:#999;
+		text-align:center;
+				
+  		margin: 2rem auto 0 auto;
+  		max-width: 600px;
+  		padding: 1em;
+  
+	}	
+	.selected{
+		cursor: pointer;
+	}
+	.selected:hover{
+		background-color: #0585C0;
+		color: white;
+	}
+	.seleccionada{
+		background-color: #0585C0;
+		color: white;
+	}
+	textarea {
+        resize: none;
+}
+
+	#titulo_cliente{
+		text-align:center;
+	font-size:13px;
+}
+	#titprod{
+		font-size:13px;   
+    	background-color:#4CAF00;
+		color: white;
+		height:10px;
+    }
+
+	#main {
+		color:#606060;
+		width: auto;
+		position: absolute;
+		left: 400px;
+		top: 280px;
+		background-color: aliceblue;
+		
+	}
+	.col {
+		margin: 10px;
+		width:600px;
+		margin-left:5px;
+		display:inline-table;
+		vertical-align:top;
+		}
+		
+	#flip {
+		margin: 5px;
+		width:auto;
+		margin-left:5px;
+		display:inline-table;
+		vertical-align:top;
+		background-color: #e5eecc;
+		border: solid 1px #c3c3c3;
+		font-size:12px;
+	}
